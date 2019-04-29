@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 ﻿Quelle relation entre un porc et un rat? Aucun rapport
 
@@ -28,3 +29,7 @@ Comment appele-t-on une prostituée qui ne suce pas? On l'appele pas
 Quelle relation entre un porc et un rat? Aucun rapport
 Moi j'en vois un, sorry!!^^
 
+=======
+Quelle relation entre un porc et un rat? Aucun rapport
+Moi j'en vois un, sorry!!^^
+>>>>>>> 917937f075bd06e52ad6633e2b750229dcd6cd07
